@@ -1,2 +1,2 @@
-# Learning_git
-This is my Repo to learn and practice Git
+# Learning_Ansible
+This is my Repo to learn Ansible
