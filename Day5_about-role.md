@@ -1,4 +1,4 @@
-###use below command to create roles in ansible
+# Use the below command to create roles in Ansible
 ```
 ansible-galaxy -h
 ```
